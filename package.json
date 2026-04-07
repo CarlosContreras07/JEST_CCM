@@ -1,7 +1,7 @@
 {
   "name": "jest",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. npm init -y //esto es para crear servidor node\r 2. npm install --save-dev jest //install framework JEST para testeo\r a",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -16,5 +16,16 @@
   "dependencies": {
     "sqlite": "^5.1.1",
     "sqlite3": "^6.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosContreras07/JEST_CCM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CarlosContreras07/JEST_CCM/issues"
+  },
+  "homepage": "https://github.com/CarlosContreras07/JEST_CCM#readme"
 }
